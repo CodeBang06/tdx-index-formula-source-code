@@ -94,10 +94,5 @@
 
 请微信扫码加入Python技术交流群获取教程的配套资料
 
-![春风微码](https://github.com/user-attachments/assets/e2addadd-889e-4917-a88c-885c7b67c1ee)
-
-
-
-
-
+![风吹麦浪](https://github.com/user-attachments/assets/9212a183-8e19-45f4-b49a-999363edb4e7)
 
