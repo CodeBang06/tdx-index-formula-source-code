@@ -94,14 +94,7 @@
 
 请微信扫码加入Python技术交流群获取教程的配套资料
 
-![巴特量化](https://github.com/CodeBang06/tdx-index-formula-source-code/assets/103555341/5fca340b-6523-4d7b-8ac5-2c7c0b9ff271)
-
-
-
-
-
-
-
+![春风微码](https://github.com/user-attachments/assets/e2addadd-889e-4917-a88c-885c7b67c1ee)
 
 
 
