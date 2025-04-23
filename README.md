@@ -92,7 +92,8 @@
 - **87.强龙回头**
 - **88.养花主图_妖股时尚之炒股养家**
 
-请微信扫码加入Python技术交流群获取教程的配套资料
+请QQ 扫码加入Python技术交流群获取教程的配套资料
 
-![风吹麦浪](https://github.com/user-attachments/assets/9212a183-8e19-45f4-b49a-999363edb4e7)
+![春光里](https://github.com/user-attachments/assets/5682c542-d827-4b2c-b5e3-7f4f9a8dea62)
+
 
